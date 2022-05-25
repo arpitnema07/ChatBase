@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839103874014",
+    "firebase_url": "https://chatbase-8f5b2.firebaseio.com",
+    "project_id": "chatbase-8f5b2",
+    "storage_bucket": "chatbase-8f5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839103874014:android:8fd66348b0dcfcc120934f",
+        "android_client_info": {
+          "package_name": "com.android.chatbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839103874014-18q07esjccdmdiqc0elqkbnjnn962se1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJ96Zl4LvHAtp6U86Ns2VuB24ea0tlMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839103874014-18q07esjccdmdiqc0elqkbnjnn962se1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

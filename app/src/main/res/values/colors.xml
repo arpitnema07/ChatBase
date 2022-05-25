@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#45B3F8</color>
+    <color name="colorPrimaryDark">#1D5097</color>
+    <color name="colorAccent">#086EFB</color>
+    <color name="offline">@android:color/darker_gray</color>
+    <color name="online">#00ED0A</color>
+</resources>

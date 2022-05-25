@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatBase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="msg_type_hint">Type a message</string>
+    <string name="sendbtn">sendBtn</string>
+    <string name="seen">seen</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in_to_your_account">Sign In to Your Account</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="chatbase">ChatBase</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_users">Users</string>
+</resources>
